@@ -1,0 +1,203 @@
+Project:               GLCameraPreview
+Index Version:         114.0
+Scanner Info Provider: org.eclipse.cdt.internal.core.settings.model.ScannerInfoProviderProxy
+Build Configuration:   Default
+File:      file:/Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h
+Context:   file:/Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h
+Language:  GNU C++
+
+Include Search Path (option -I):
+   /Users/renard/Desktop/devel/android-ndk-r7c/sources/cxx-stl/gnu-libstdc++/include
+   /Users/renard/Desktop/devel/android-ndk-r7c/sources/cxx-stl/gnu-libstdc++/libs/armeabi-v7a/include
+   /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni
+   /Users/renard/Desktop/devel/android-ndk-r7c/platforms/android-14/arch-arm/usr/include
+   /Users/renard/Desktop/devel/android-ndk-r7c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/lib/gcc/arm-linux-androideabi/4.4.3/include
+   /Users/renard/Desktop/devel/android-ndk-r7c/toolchains/arm-linux-androideabi-4.4.3/prebuilt/darwin-x86/lib/gcc/arm-linux-androideabi/4.4.3/include-fixed
+
+Local Include Search Path (option -iquote):
+
+Preincluded files (option -include):
+
+Preincluded macro files (option -imacros):
+
+Macro definitions (option -D):
+   ANDROID=1
+   linux=1
+   NDEBUG=1
+   unix=1
+   _GNU_SOURCE=1
+   __ANDROID__=1
+   __APCS_32__=1
+   __ARMEL__=1
+   __ARM_ARCH_5E__=1
+   __ARM_ARCH_5TE__=1
+   __ARM_ARCH_5T__=1
+   __ARM_ARCH_5__=1
+   __ARM_ARCH_7A__=1
+   __ARM_EABI__=1
+   __arm__=1
+   __BIGGEST_ALIGNMENT__=8
+   __CHAR16_TYPE__=short unsigned int
+   __CHAR32_TYPE__=unsigned int
+   __CHAR_BIT__=8
+   __CHAR_UNSIGNED__=1
+   __cplusplus=1
+   __DBL_DENORM_MIN__=4.9406564584124654e-324
+   __DBL_DIG__=15
+   __DBL_EPSILON__=2.2204460492503131e-16
+   __DBL_HAS_DENORM__=1
+   __DBL_HAS_INFINITY__=1
+   __DBL_HAS_QUIET_NAN__=1
+   __DBL_MANT_DIG__=53
+   __DBL_MAX_10_EXP__=308
+   __DBL_MAX_EXP__=1024
+   __DBL_MAX__=1.7976931348623157e+308
+   __DBL_MIN_10_EXP__=(-307)
+   __DBL_MIN_EXP__=(-1021)
+   __DBL_MIN__=2.2250738585072014e-308
+   __DEC128_EPSILON__=1E-33DL
+   __DEC128_MANT_DIG__=34
+   __DEC128_MAX_EXP__=6145
+   __DEC128_MAX__=9.999999999999999999999999999999999E6144DL
+   __DEC128_MIN_EXP__=(-6142)
+   __DEC128_MIN__=1E-6143DL
+   __DEC128_SUBNORMAL_MIN__=0.000000000000000000000000000000001E-6143DL
+   __DEC32_EPSILON__=1E-6DF
+   __DEC32_MANT_DIG__=7
+   __DEC32_MAX_EXP__=97
+   __DEC32_MAX__=9.999999E96DF
+   __DEC32_MIN_EXP__=(-94)
+   __DEC32_MIN__=1E-95DF
+   __DEC32_SUBNORMAL_MIN__=0.000001E-95DF
+   __DEC64_EPSILON__=1E-15DD
+   __DEC64_MANT_DIG__=16
+   __DEC64_MAX_EXP__=385
+   __DEC64_MAX__=9.999999999999999E384DD
+   __DEC64_MIN_EXP__=(-382)
+   __DEC64_MIN__=1E-383DD
+   __DEC64_SUBNORMAL_MIN__=0.000000000000001E-383DD
+   __DECIMAL_DIG__=17
+   __DEC_EVAL_METHOD__=2
+   __DEPRECATED=1
+   __ELF__=1
+   __EXCEPTIONS=1
+   __FINITE_MATH_ONLY__=0
+   __FLT_DENORM_MIN__=1.40129846e-45F
+   __FLT_DIG__=6
+   __FLT_EPSILON__=1.19209290e-7F
+   __FLT_EVAL_METHOD__=0
+   __FLT_HAS_DENORM__=1
+   __FLT_HAS_INFINITY__=1
+   __FLT_HAS_QUIET_NAN__=1
+   __FLT_MANT_DIG__=24
+   __FLT_MAX_10_EXP__=38
+   __FLT_MAX_EXP__=128
+   __FLT_MAX__=3.40282347e+38F
+   __FLT_MIN_10_EXP__=(-37)
+   __FLT_MIN_EXP__=(-125)
+   __FLT_MIN__=1.17549435e-38F
+   __FLT_RADIX__=2
+   __GNUC_GNU_INLINE__=1
+   __GNUC_MINOR__=4
+   __GNUC_PATCHLEVEL__=3
+   __GNUC__=4
+   __GNUG__=4
+   __GXX_ABI_VERSION=1002
+   __GXX_RTTI=1
+   __GXX_TYPEINFO_EQUALITY_INLINE=0
+   __GXX_WEAK__=1
+   __INTMAX_MAX__=9223372036854775807LL
+   __INTMAX_TYPE__=long long int
+   __INT_MAX__=2147483647
+   __LDBL_DENORM_MIN__=4.9406564584124654e-324L
+   __LDBL_DIG__=15
+   __LDBL_EPSILON__=2.2204460492503131e-16L
+   __LDBL_HAS_DENORM__=1
+   __LDBL_HAS_INFINITY__=1
+   __LDBL_HAS_QUIET_NAN__=1
+   __LDBL_MANT_DIG__=53
+   __LDBL_MAX_10_EXP__=308
+   __LDBL_MAX_EXP__=1024
+   __LDBL_MAX__=1.7976931348623157e+308L
+   __LDBL_MIN_10_EXP__=(-307)
+   __LDBL_MIN_EXP__=(-1021)
+   __LDBL_MIN__=2.2250738585072014e-308L
+   __linux=1
+   __linux__=1
+   __LONG_LONG_MAX__=9223372036854775807LL
+   __LONG_MAX__=2147483647L
+   __OPTIMIZE__=1
+   __PIC__=1
+   __PTRDIFF_TYPE__=int
+   __REGISTER_PREFIX__=
+   __SCHAR_MAX__=127
+   __SHRT_MAX__=32767
+   __SIZEOF_DOUBLE__=8
+   __SIZEOF_FLOAT__=4
+   __SIZEOF_INT__=4
+   __SIZEOF_LONG_DOUBLE__=8
+   __SIZEOF_LONG_LONG__=8
+   __SIZEOF_LONG__=4
+   __SIZEOF_POINTER__=4
+   __SIZEOF_PTRDIFF_T__=4
+   __SIZEOF_SHORT__=2
+   __SIZEOF_SIZE_T__=4
+   __SIZEOF_WCHAR_T__=4
+   __SIZEOF_WINT_T__=4
+   __SIZE_TYPE__=unsigned int
+   __STDC_HOSTED__=1
+   __STDC__=1
+   __thumb2__=1
+   __THUMBEL__=1
+   __THUMB_INTERWORK__=1
+   __thumb__=1
+   __UINTMAX_TYPE__=long long unsigned int
+   __unix=1
+   __unix__=1
+   __USER_LABEL_PREFIX__=
+   __VERSION__="4.4.3"
+   __VFP_FP__=1
+   __WCHAR_MAX__=4294967295U
+   __WCHAR_TYPE__=unsigned int
+   __WCHAR_UNSIGNED__=1
+   __WINT_TYPE__=unsigned int
+
+Macro definitions (from configuration + headers in index):
+   __builtin_constant_p(exp)=0
+   __builtin_offsetof(T,m)=(reinterpret_cast <size_t>(&reinterpret_cast <const volatile char &>(static_cast<T*> (0)->m)))
+   __builtin_types_compatible_p(x,y)=__builtin_types_compatible_p(sizeof(x),sizeof(y))
+   __builtin_va_arg(ap,type)=*(typeof(type) *)ap
+   __CDT_PARSER__=1
+   __complex__=_Complex
+   __DATE__="Apr 27 2012"
+   __extension__=
+   __FILE__="file"
+   __imag__=(int)
+   __LINE__=1
+   __null=0
+   __offsetof__(x)=(x)
+   __real__=(int)
+   __stdcall=
+   __thread=
+   __TIME__="14:49:50"
+
+Macro definitions (from files actually parsed):
+   _Included_de_renard_glcamera_ImageFilter=
+
+Unresolved includes (from headers in index):
+   file:/Users/renard/Desktop/devel/android-ndk-r7c/platforms/android-14/arch-arm/usr/include/jni.h is not indexed
+
+Scanner problems:
+
+Parser problems:
+   Syntax error in file: /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:15
+   Syntax error in file: /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:23
+   Syntax error in file: /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:31
+
+Unresolved names:
+   Attempt to use symbol failed: JNICALL in file /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:15
+   Attempt to use symbol failed: JNIEnv in file /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:16
+   Attempt to use symbol failed: jobject in file /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:16
+   Attempt to use symbol failed: jbyteArray in file /Users/renard/Desktop/devel/workspace/GLCameraPreview/jni/de_renard_glcamera_ImageFilter.h:16
+
+Exceptions in name resolution:
